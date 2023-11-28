@@ -1,9 +1,3 @@
-# Ctrl+Shift+F10以运行
-# Ctrl+/以多行注释
-# Ctrl+Alt+L以美化代码
-# Help下拉菜单以重置licence
-# 现在，开始你的表演吧！
-
 class Song:
     """
     歌曲成绩类，包含歌曲id，名称，成绩表，dx分数表，fc/fs表

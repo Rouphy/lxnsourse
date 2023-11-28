@@ -1,8 +1,3 @@
-# Ctrl+Shift+F10以运行
-# Ctrl+/以多行注释
-# Ctrl+Alt+L以美化代码
-# Help下拉菜单以重置licence
-# 现在，开始你的表演吧！
 import json
 
 from PIL import Image, ImageDraw, ImageFont
